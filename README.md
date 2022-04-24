@@ -1,6 +1,8 @@
 # my_alma_repo
 my new Rop with Almabetter
 
+If we want copy of repositories for type this code in CMD :- git clone [add here your repo in https link and press Enter]
+
 1) If we want to add data seperate branch :- "git checkout -b my_branch"
     -b = branck
 2) If we want to add seperate file:- "git add FileName"
